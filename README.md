@@ -61,8 +61,6 @@ https://catppuccin.com/palette/
 >Packages.
 
 ```
-sudo pacman -S 
-
 wlroot
 wayland
 wayland-protocols
