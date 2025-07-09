@@ -1,0 +1,26 @@
+{
+  "layer": "top",
+  "position": "top",
+  "modules-left": ["custom/launcher"],
+  "modules-center": ["sway/workspaces"],
+  "modules-right": ["clock"],
+
+  "custom/launcher": {
+    "format": "", // Nerd Font icon, looks like a search
+    "tooltip": true,
+    "tooltip-format": "Run Apps",
+    "on-click": "fuzzel",
+    "class": "launcher"
+  },
+
+  "sway/workspaces": {
+    "disable-scroll": false,
+    "all-outputs": true
+  },
+
+  "clock": {
+    "format": "{:%h:%M}",
+    "tooltip": true,
+    "tooltip-format": "{:%A, %d %B %Y}"
+  }
+}

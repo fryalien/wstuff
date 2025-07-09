@@ -1,0 +1,52 @@
+# Open app launcher
+alt + d
+    fuzzel
+
+# Terminal
+alt + return
+    foot
+
+alt + shift +return
+    kitty
+
+super + return
+    alacritty
+
+alt + w
+    chromium
+
+super + e
+    thunar
+
+# Record the screen with audio
+super + shift + r
+    ~/.local/scripts/record-screen.sh
+
+# Kill focused window
+super + q
+    hyprctl dispatch killactive
+
+# Volume controls (requires pipewire/pw-volume or pactl)
+super + minus
+    pactl set-sink-volume @DEFAULT_SINK@ -5%
+
+super + equal
+    pactl set-sink-volume @DEFAULT_SINK@ +5%
+
+super + 0
+    pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+# Brightness controls (requires brightnessctl)
+super + bracketleft
+    brightnessctl set 5%-
+
+super + bracketright
+    brightnessctl set +5%
+
+# Lock the screen
+super + shift + x
+    swaylock
+
+# Take screenshot (requires grim and slurp)
+super + shift + s
+    grim -g "$(slurp)" ~/Screenshots/screenshot_$(date +%s).png

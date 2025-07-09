@@ -1,0 +1,23 @@
+* {
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #1e1e2e;
+}
+
+#workspaces button {
+  padding: 0 5px;
+  border: none;
+  background: transparent;
+  color: #888;
+}
+
+#workspaces button.active {
+  color: #ffffff;
+}
+
+#custom-launcher {
+  padding: 0 10px;
+  font-size: 16px;
+  color: #89dceb;
+}

@@ -1,0 +1,21 @@
+[general]
+import = [
+  "~/.config/alacritty/catppuccin-macchiato.toml"
+]
+
+[window]
+decorations = "None"
+
+[window.padding]
+x = 10
+y = 10
+
+[font]
+size = 15.0
+
+[cursor.style]
+shape = "Block"
+blinking = "Always"
+
+[selection]
+save_to_clipboard = true
