@@ -48,14 +48,13 @@ swhkd
 
 **Arc-dark colors**
 
-| Hex       | RGB             | Preview                          |
-|-----------|------------------|----------------------------------|
-| `#404552` | (64, 69, 82)     | <span style="display:inline-block;width:50px;height:20px;background:#404552;"></span> |
-| `#383c4a` | (56, 60, 74)     | <span style="display:inline-block;width:50px;height:20px;background:#383c4a;"></span> |
-| `#4b5162` | (75, 81, 98)     | <span style="display:inline-block;width:50px;height:20px;background:#4b5162;"></span> |
-| `#5294e2` | (82, 148, 226)   | <span style="display:inline-block;width:50px;height:20px;background:#5294e2;"></span> |
-| `#7c818c` | (124, 129, 140)  | <span style="display:inline-block;width:50px;height:20px;background:#7c818c;"></span> |
-
+| Hex       | RGB           |
+|-----------|---------------|
+| `#404552` | (64, 69, 82)  |
+| `#383c4a` | (56, 60, 74)  |
+| `#4b5162` | (75, 81, 98)  |
+| `#5294e2` | (82, 148, 226)|
+| `#7c818c` | (124, 129, 140)|
 
 
 **Catppuccin**
