@@ -82,7 +82,7 @@ wf-recorder
 pipewire
 wireplumber
 xdg-desktop-portal
-np-applet
+nm-applet
 udisks2
 nemo nemo-fileroller nemo-terminal
 pcmanfm-qt
