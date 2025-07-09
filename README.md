@@ -47,11 +47,17 @@ swhkd
 >Themes.
 
 **Arc-dark colors**
+
 Hex		RGB
+
 #404552	(64,69,82)
+
 #383c4a	(56,60,74)
+
 #4b5162	(75,81,98)
+
 #5294e2	(82,148,226)
+
 #7c818c	(124,129,140)
 
 **Catppuccin**
@@ -70,10 +76,10 @@ ttf-hack-nerd
 ttf-font-awesome
 ttf-jetbrains-mono
 ttf-jetbrains-mono-nerd
+ttf-deajvu
 ttf-nerd-fonts-symbols
 wlroots
 seatd
-ttf-deajvu
 wdisplays
 wf-recorder
 pipewire
