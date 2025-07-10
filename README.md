@@ -2,6 +2,8 @@
 
 This is just the simple config of all this programs that should work everywhere on wayland.
 
+Everything goest to `~/.config` folder.
+
 
 **STUFF THAT WILL BE INSTALLED**
 
