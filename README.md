@@ -63,37 +63,12 @@ swhkd
 
 https://catppuccin.com/palette/
 
->Packages.
-
-```
-wlroot
-wayland
-wayland-protocols
-waybar
-ttf-hack
-ttf-hack-nerd
-ttf-font-awesome
-ttf-jetbrains-mono
-ttf-jetbrains-mono-nerd
-ttf-deajvu
-ttf-nerd-fonts-symbols
-wlroots
-seatd
-wdisplays
-wf-recorder
-pipewire
-wireplumber
-xdg-desktop-portal
-nm-applet
-udisks2
-nemo nemo-fileroller nemo-terminal
-pcmanfm-qt
-polkit-gnome-agent
-wlr-randr
-```
+>Set monitor resolution.
 
 wlr-randr --output Virtual-1 --mode 1920x1080@60Hz
 
+>This is to install bunch of stuff, it's work in progress.
+
 ```
-yay -S swhkd-bin
+./way-soft.sh
 ```
