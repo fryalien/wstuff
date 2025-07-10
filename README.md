@@ -65,7 +65,9 @@ https://catppuccin.com/palette/
 
 >Set monitor resolution.
 
+```
 wlr-randr --output Virtual-1 --mode 1920x1080@60Hz
+```
 
 >This is to install bunch of stuff, it's work in progress.
 
