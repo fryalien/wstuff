@@ -30,6 +30,11 @@ sudo pacman -S --noconfirm --needed wireplumber
 sudo pacman -S --noconfirm --needed wlr-randr
 sudo pacman -S --noconfirm --needed wlroots
 sudo pacman -S --noconfirm --needed xdg-desktop-portal
+sudo pacman -S --noconfirm --needed xdg-desktop-portal-wlr
+sudo pacman -S --noconfirm --needed xdg-desktop-portal-gtk
+sudo pacman -S --noconfirm --needed xdg-desktop-portal-xapp
+sudo pacman -S --noconfirm --needed xdg-desktop-portal-kde
+sudo pacman -S --noconfirm --needed xdg-desktop-portal-gnome
 
 yay -S --noconfirm --needed swhkd-bin
 yay -S --noconfirm --needed sublime-text-4
