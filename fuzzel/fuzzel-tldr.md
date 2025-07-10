@@ -11,3 +11,9 @@ sudo pacman -S fuzzel
 ```
 micro ~/.config/fuzzel/fuzzel.ini
 ```
+
+>Additional stuff
+
+```
+sudo pacman -S ttf-hack-nerd papirus-icon-theme foot
+```
