@@ -21,3 +21,9 @@ cp /etc/xdg/waybar/* ~/.config/waybar/
 ```
 sudo pacman -S ttf-hack-nerd ttf-font-awesome ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols
 ```
+
+>Uses fuzzel as app launcher
+
+```
+sudo pacman -S fuzzel
+```
