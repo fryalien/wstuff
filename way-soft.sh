@@ -4,7 +4,9 @@ sudo pacman -S --noconfirm --needed fuzzel
 sudo pacman -S --noconfirm --needed kitty
 sudo pacman -S --noconfirm --needed mako
 sudo pacman -S --noconfirm --needed micro
-sudo pacman -S --noconfirm --needed mpv
+sudo pacman -S --noconfirm --needed mpv ffmpeg
+sudo pacman -S --noconfirm --needed ffmpeg
+sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed nemo nemo-fileroller nemo-terminal
 sudo pacman -S --noconfirm --needed nm-applet
 sudo pacman -S --noconfirm --needed pcmanfm-qt
