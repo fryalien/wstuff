@@ -7,6 +7,7 @@ sudo pacman -S --noconfirm --needed mako
 sudo pacman -S --noconfirm --needed micro
 sudo pacman -S --noconfirm --needed mpv ffmpeg
 sudo pacman -S --noconfirm --needed nemo nemo-fileroller nemo-terminal
+sudo pacman -S --noconfirm --needed papirus-icon-theme
 sudo pacman -S --noconfirm --needed pcmanfm-qt
 sudo pacman -S --noconfirm --needed swaybg
 sudo pacman -S --noconfirm --needed swaylock

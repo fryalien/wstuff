@@ -16,6 +16,8 @@ sudo pacman -S --noconfirm --needed xdg-desktop-portal-kde
 sudo pacman -S --noconfirm --needed xdg-desktop-portal-wlr
 sudo pacman -S --noconfirm --needed xdg-desktop-portal-xapp
 sudo pacman -S --noconfirm --needed xwayland-satellite
+sudo pacman -S --noconfirm --needed brightnessctl
+sudo pacman -S --noconfirm --needed pamixer
 
 # can't install from aur, error status 4
 # yay -S --noconfirm --needed wdisplays
