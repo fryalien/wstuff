@@ -72,5 +72,11 @@ wlr-randr --output Virtual-1 --mode 1920x1080@60Hz
 >This is to install bunch of stuff, it's work in progress.
 
 ```
-./way-soft.sh
+./way-stuff.sh
+```
+
+>This is to install only apps for testing.
+
+```
+./apps.sh
 ```
